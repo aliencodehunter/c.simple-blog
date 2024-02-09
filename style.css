@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #7B8FA1;
+}
+.header{
+    background-color: #EA1179;
+    padding: 1vw 0 1vw 5vw;
+}
+h1{
+    color: #F6FFA6;
+    font-size: 3vw;
+    font-family: 'Russo One', sans-serif;
+}
+.header-para{
+    color: #FFB84C;
+    font-size: 2vw;
+    margin-top: 0;
+    font-family: 'Fugaz One', sans-serif;
+}
+.main{
+    background-color: #7B8FA1;
+    margin-top: 0.5vw;
+}
+.mid{
+    background-color: #7B8FA1;
+    display: flex;
+    flex-direction: row;
+}
+.posts{
+    width: 85vw;
+    padding: 2vw;
+    background-color: #F0DBDB;
+    margin-right: 0.5vw;
+}
+.hpst{
+    color: #3F0071;
+    margin-top: 1vw;
+    font-size: 2vw;
+    margin-bottom: 1vw;
+    font-family: 'Yatra One', system-ui;
+}
+img{
+    width: 100%;
+    height: 50%;
+}
+.ppara{
+    color: #282A3A;
+    font-size: 1.3vw;
+    margin-bottom: 1vw;
+    font-family: 'Outfit', sans-serif;
+}
+
+/* ------ Right div------------- */
+.right-div{
+    background-color: #7B8FA1;
+    width: 20vw;
+    text-align: center;
+}
+.abt-me{
+    background-color: #F0DBDB;
+    padding: 1vw;
+}
+.mypic{
+    width: 15vw;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+h2.abt{
+    color: #E14D2A;
+    font-size: 2vw;
+    font-family: 'Russo One', sans-serif;
+}
+h3.abt{
+    color: brown;
+    font-size: 1.4vw;
+    font-family: 'Audiowide', sans-serif;
+}
+.pop-posts{
+    background-color: #F0DBDB;
+    margin-top: 1vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1vw;
+}
+.right-img{
+    width: 80%;
+    border: 2px solid white;
+    border-radius: 30px;
+}
+.contact-me{
+    margin-top: 1vw;
+    background-color: #F0DBDB;
+    text-align: center;
+    padding: 1vw;
+}
+p.abt{
+    font-size: 1vw;
+}
+
+/* ---------Footer----------- */
+.footer{
+    margin-top: 8vw;
+    height: 20vh;
+    padding: 2vw;
+    text-align: center;
+    background-color: #132043;
+}
+.footerpara{
+    color: white;
+    font-size: 1vw;
+    margin: 2vw;
+    font-family: 'Outfit', sans-serif;
+}
